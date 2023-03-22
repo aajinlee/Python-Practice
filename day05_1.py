@@ -7,5 +7,5 @@ if up_num < 5 :
 else :
     print(num,"을 반올림하면",int(num +0.5),"입니다")
     
-
+  
 
