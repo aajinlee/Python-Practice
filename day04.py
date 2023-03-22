@@ -1,6 +1,6 @@
 print(200+30+50+20)
 a = 20 + 30 + 5 + 7
-print(a)
+print(a)   
 one = 5
 two = 4
 add = one + two

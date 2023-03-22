@@ -1,7 +1,7 @@
 time = int(input("시간(초)을 입력해 주세요. : "))
 
 #1day = 24hr = 1440min = 86400sec 
-#1hr = 60min = 3600sec
+#1hr = 60min = 3600sec  
 
 print(time,"초 =", end=" ")
 
