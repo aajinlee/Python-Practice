@@ -11,4 +11,4 @@ elif year % 400 == 0 :
 
 else :
     print(str(year)+"은 윤년이 아닙니다.")
-    
+      

@@ -6,3 +6,4 @@ sum = first + second + third
 
 print("평균 점수는", sum/3, "점으로 합격입니다")
 
+  

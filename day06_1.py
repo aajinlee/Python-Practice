@@ -13,5 +13,5 @@ elif bmi >= 25 :
     print("BMI 지수가", bmi, "이므로 비만입니다.")
 
 else :
-    print("잘못된 입력입니다.")
+    print("잘못된 입력입니다.") 
 
