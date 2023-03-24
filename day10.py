@@ -8,7 +8,7 @@ for i in range(0, 7) :
 
 sum = 0
 
-for i in range(0, 7) :
+for i in range(0, 7) : 
     sum = sum + value[i]
 
 print("평균 :", sum/7)
